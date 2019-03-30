@@ -1,2 +1,2 @@
-# C-Basics
+CSharp-Basics
 Programming Basics with C#
