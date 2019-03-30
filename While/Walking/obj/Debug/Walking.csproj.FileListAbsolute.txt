@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\Walking\bin\Debug\Walking.exe.config
+C:\Users\Lenovo\source\repos\While\Walking\bin\Debug\Walking.exe
+C:\Users\Lenovo\source\repos\While\Walking\bin\Debug\Walking.pdb
+C:\Users\Lenovo\source\repos\While\Walking\obj\Debug\Walking.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\Walking\obj\Debug\Walking.exe
+C:\Users\Lenovo\source\repos\While\Walking\obj\Debug\Walking.pdb

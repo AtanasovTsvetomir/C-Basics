@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\bin\Debug\SholarShip_EXAM.exe.config
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\bin\Debug\SholarShip_EXAM.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\bin\Debug\SholarShip_EXAM.pdb
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\obj\Debug\SholarShip_EXAM.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\obj\Debug\SholarShip_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\obj\Debug\SholarShip_EXAM.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\SholarShip_EXAM\obj\Debug\SholarShip_EXAM.pdb

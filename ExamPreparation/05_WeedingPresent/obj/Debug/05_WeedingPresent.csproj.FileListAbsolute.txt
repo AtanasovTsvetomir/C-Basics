@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\obj\Debug\05_WeedingPresent.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\obj\Debug\05_WeedingPresent.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\bin\Debug\05_WeedingPresent.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\bin\Debug\05_WeedingPresent.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\bin\Debug\05_WeedingPresent.pdb
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\obj\Debug\05_WeedingPresent.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_WeedingPresent\obj\Debug\05_WeedingPresent.pdb

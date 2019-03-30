@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\obj\Debug\WeadingSeats.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\obj\Debug\WeadingSeats.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\bin\Debug\WeadingSeats.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\bin\Debug\WeadingSeats.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\bin\Debug\WeadingSeats.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\obj\Debug\WeadingSeats.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\WeadingSeats\obj\Debug\WeadingSeats.pdb

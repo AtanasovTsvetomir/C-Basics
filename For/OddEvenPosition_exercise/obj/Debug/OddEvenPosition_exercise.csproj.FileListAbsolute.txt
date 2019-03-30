@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\bin\Debug\OddEvenPosition_exercise.exe.config
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\bin\Debug\OddEvenPosition_exercise.exe
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\bin\Debug\OddEvenPosition_exercise.pdb
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\obj\Debug\OddEvenPosition_exercise.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\obj\Debug\OddEvenPosition_exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\obj\Debug\OddEvenPosition_exercise.exe
+D:\SoftUni\ProgrammingBasics\For\OddEvenPosition_exercise\obj\Debug\OddEvenPosition_exercise.pdb

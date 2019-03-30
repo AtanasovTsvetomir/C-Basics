@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\bin\Debug\05_ComputerFirm.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\bin\Debug\05_ComputerFirm.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\bin\Debug\05_ComputerFirm.pdb
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\obj\Debug\05_ComputerFirm.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\obj\Debug\05_ComputerFirm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\obj\Debug\05_ComputerFirm.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_ComputerFirm\obj\Debug\05_ComputerFirm.pdb

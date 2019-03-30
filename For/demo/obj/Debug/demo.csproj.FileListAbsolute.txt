@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\demo\obj\Debug\demo.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\demo\bin\Debug\demo.exe.config
+D:\SoftUni\ProgrammingBasics\For\demo\bin\Debug\demo.exe
+D:\SoftUni\ProgrammingBasics\For\demo\bin\Debug\demo.pdb
+D:\SoftUni\ProgrammingBasics\For\demo\obj\Debug\demo.exe
+D:\SoftUni\ProgrammingBasics\For\demo\obj\Debug\demo.pdb

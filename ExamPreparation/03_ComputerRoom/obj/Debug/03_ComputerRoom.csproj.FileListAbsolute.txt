@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\bin\Debug\03_ComputerRoom.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\bin\Debug\03_ComputerRoom.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\bin\Debug\03_ComputerRoom.pdb
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\obj\Debug\03_ComputerRoom.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\obj\Debug\03_ComputerRoom.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\obj\Debug\03_ComputerRoom.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_ComputerRoom\obj\Debug\03_ComputerRoom.pdb

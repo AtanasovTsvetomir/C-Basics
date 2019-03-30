@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\bin\Debug\02_MaidenParty.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\bin\Debug\02_MaidenParty.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\bin\Debug\02_MaidenParty.pdb
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\obj\Debug\02_MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\obj\Debug\02_MaidenParty.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_MaidenParty\obj\Debug\02_MaidenParty.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\bin\Debug\GameStatistics.exe.config
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\bin\Debug\GameStatistics.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\bin\Debug\GameStatistics.pdb
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\obj\Debug\GameStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\obj\Debug\GameStatistics.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GameStatistics\obj\Debug\GameStatistics.pdb

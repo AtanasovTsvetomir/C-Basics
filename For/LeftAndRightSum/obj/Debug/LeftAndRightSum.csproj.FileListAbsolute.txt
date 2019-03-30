@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\SoftUni\ProgrammingBasics\For\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

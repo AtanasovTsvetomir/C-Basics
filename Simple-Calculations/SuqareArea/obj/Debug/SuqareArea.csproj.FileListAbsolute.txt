@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\bin\Debug\SuqareArea.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\bin\Debug\SuqareArea.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\bin\Debug\SuqareArea.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\obj\Debug\SuqareArea.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\obj\Debug\SuqareArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\obj\Debug\SuqareArea.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\SuqareArea\obj\Debug\SuqareArea.pdb

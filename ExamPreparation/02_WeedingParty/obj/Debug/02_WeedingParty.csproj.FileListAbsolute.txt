@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\bin\Debug\02_WeedingParty.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\bin\Debug\02_WeedingParty.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\bin\Debug\02_WeedingParty.pdb
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\obj\Debug\02_WeedingParty.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\obj\Debug\02_WeedingParty.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_WeedingParty\obj\Debug\02_WeedingParty.pdb

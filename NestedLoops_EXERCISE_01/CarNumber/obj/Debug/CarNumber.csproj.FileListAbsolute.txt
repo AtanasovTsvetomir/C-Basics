@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\bin\Debug\CarNumber.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\bin\Debug\CarNumber.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\bin\Debug\CarNumber.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\obj\Debug\CarNumber.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\obj\Debug\CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\obj\Debug\CarNumber.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\CarNumber\obj\Debug\CarNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\bin\Debug\01_PcStore.exe.config
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\bin\Debug\01_PcStore.exe
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\bin\Debug\01_PcStore.pdb
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\obj\Debug\01_PcStore.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\obj\Debug\01_PcStore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\obj\Debug\01_PcStore.exe
+C:\Users\Acer\source\repos\TrialExam_05\01_PcStore\obj\Debug\01_PcStore.pdb

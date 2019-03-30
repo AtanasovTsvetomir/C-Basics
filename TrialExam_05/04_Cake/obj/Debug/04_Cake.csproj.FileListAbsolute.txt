@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\bin\Debug\04_Cake.exe.config
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\bin\Debug\04_Cake.exe
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\bin\Debug\04_Cake.pdb
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\obj\Debug\04_Cake.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\obj\Debug\04_Cake.exe
+C:\Users\Acer\source\repos\TrialExam_05\04_Cake\obj\Debug\04_Cake.pdb

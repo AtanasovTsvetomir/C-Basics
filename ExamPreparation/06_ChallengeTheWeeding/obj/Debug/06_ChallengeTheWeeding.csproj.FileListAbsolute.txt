@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\bin\Debug\06_ChallengeTheWeeding.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\bin\Debug\06_ChallengeTheWeeding.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\bin\Debug\06_ChallengeTheWeeding.pdb
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\obj\Debug\06_ChallengeTheWeeding.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\obj\Debug\06_ChallengeTheWeeding.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\obj\Debug\06_ChallengeTheWeeding.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_ChallengeTheWeeding\obj\Debug\06_ChallengeTheWeeding.pdb

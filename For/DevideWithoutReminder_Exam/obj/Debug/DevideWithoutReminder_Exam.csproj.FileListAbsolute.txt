@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\bin\Debug\DevideWithoutReminder_Exam.exe.config
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\bin\Debug\DevideWithoutReminder_Exam.exe
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\bin\Debug\DevideWithoutReminder_Exam.pdb
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\obj\Debug\DevideWithoutReminder_Exam.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\obj\Debug\DevideWithoutReminder_Exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\obj\Debug\DevideWithoutReminder_Exam.exe
+D:\SoftUni\ProgrammingBasics\For\DevideWithoutReminder_Exam\obj\Debug\DevideWithoutReminder_Exam.pdb

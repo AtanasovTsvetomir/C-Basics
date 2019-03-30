@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\bin\Debug\TrainTheTrainers.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\obj\Debug\TrainTheTrainers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\obj\Debug\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\obj\Debug\TrainTheTrainers.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\TrainTheTrainers\obj\Debug\TrainTheTrainers.pdb

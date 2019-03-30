@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\bin\Debug\NumberEndingIn7_Exercise.exe.config
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\bin\Debug\NumberEndingIn7_Exercise.exe
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\bin\Debug\NumberEndingIn7_Exercise.pdb
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\obj\Debug\NumberEndingIn7_Exercise.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\obj\Debug\NumberEndingIn7_Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\obj\Debug\NumberEndingIn7_Exercise.exe
+D:\SoftUni\ProgrammingBasics\For\NumberEndingIn7_Exercise\obj\Debug\NumberEndingIn7_Exercise.pdb

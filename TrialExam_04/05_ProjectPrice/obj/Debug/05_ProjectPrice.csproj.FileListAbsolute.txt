@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\bin\Debug\05_ProjectPrice.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\bin\Debug\05_ProjectPrice.exe
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\bin\Debug\05_ProjectPrice.pdb
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\obj\Debug\05_ProjectPrice.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\obj\Debug\05_ProjectPrice.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\obj\Debug\05_ProjectPrice.exe
+C:\Users\Acer\source\repos\TrialExam_04\05_ProjectPrice\obj\Debug\05_ProjectPrice.pdb

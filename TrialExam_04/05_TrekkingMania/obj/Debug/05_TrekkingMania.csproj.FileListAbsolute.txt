@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\bin\Debug\05_TrekkingMania.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\bin\Debug\05_TrekkingMania.exe
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\bin\Debug\05_TrekkingMania.pdb
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\obj\Debug\05_TrekkingMania.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\obj\Debug\05_TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\obj\Debug\05_TrekkingMania.exe
+C:\Users\Acer\source\repos\TrialExam_04\05_TrekkingMania\obj\Debug\05_TrekkingMania.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\bin\Debug\02_MountainRun.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\bin\Debug\02_MountainRun.exe
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\bin\Debug\02_MountainRun.pdb
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\obj\Debug\02_MountainRun.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\obj\Debug\02_MountainRun.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\obj\Debug\02_MountainRun.exe
+C:\Users\Acer\source\repos\TrialExam_04\02_MountainRun\obj\Debug\02_MountainRun.pdb

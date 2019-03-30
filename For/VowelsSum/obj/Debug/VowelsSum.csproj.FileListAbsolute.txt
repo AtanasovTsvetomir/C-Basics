@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\bin\Debug\VowelsSum.exe
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\obj\Debug\VowelsSum.exe
+D:\SoftUni\ProgrammingBasics\For\VowelsSum\obj\Debug\VowelsSum.pdb

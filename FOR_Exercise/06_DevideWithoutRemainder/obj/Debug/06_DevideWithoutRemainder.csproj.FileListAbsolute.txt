@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\bin\Debug\06_DevideWithoutRemainder.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\bin\Debug\06_DevideWithoutRemainder.exe
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\bin\Debug\06_DevideWithoutRemainder.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\obj\Debug\06_DevideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\obj\Debug\06_DevideWithoutRemainder.exe
+C:\Users\Acer\source\repos\FOR_Exercise\06_DevideWithoutRemainder\obj\Debug\06_DevideWithoutRemainder.pdb

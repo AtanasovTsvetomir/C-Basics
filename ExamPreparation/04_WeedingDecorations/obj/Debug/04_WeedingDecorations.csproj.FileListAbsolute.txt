@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\bin\Debug\04_WeedingDecorations.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\bin\Debug\04_WeedingDecorations.exe
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\bin\Debug\04_WeedingDecorations.pdb
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\obj\Debug\04_WeedingDecorations.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\obj\Debug\04_WeedingDecorations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\obj\Debug\04_WeedingDecorations.exe
+C:\Users\Acer\source\repos\ExamPreparation\04_WeedingDecorations\obj\Debug\04_WeedingDecorations.pdb

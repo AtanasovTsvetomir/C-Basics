@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\bin\Debug\Matrix.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\obj\Debug\Matrix.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\Matrix\obj\Debug\Matrix.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\bin\Debug\Volleyball.exe.config
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\bin\Debug\Volleyball.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\bin\Debug\Volleyball.pdb
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\obj\Debug\Volleyball.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\Volleyball\obj\Debug\Volleyball.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\bin\Debug\ThreeBrothers.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\obj\Debug\ThreeBrothers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\obj\Debug\ThreeBrothers.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\ThreeBrothers\obj\Debug\ThreeBrothers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\bin\Debug\06_MathPuzzle.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\bin\Debug\06_MathPuzzle.exe
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\bin\Debug\06_MathPuzzle.pdb
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\obj\Debug\06_MathPuzzle.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\obj\Debug\06_MathPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\obj\Debug\06_MathPuzzle.exe
+C:\Users\Acer\source\repos\TrialExam_04\06_MathPuzzle\obj\Debug\06_MathPuzzle.pdb

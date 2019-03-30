@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\bin\Debug\06_Salary.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\bin\Debug\06_Salary.exe
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\bin\Debug\06_Salary.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\obj\Debug\06_Salary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\obj\Debug\06_Salary.exe
+C:\Users\Acer\source\repos\FOR_Exercise\06_Salary\obj\Debug\06_Salary.pdb

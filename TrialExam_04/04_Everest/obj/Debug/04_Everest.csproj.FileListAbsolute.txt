@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\bin\Debug\04_Everest.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\bin\Debug\04_Everest.exe
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\bin\Debug\04_Everest.pdb
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\obj\Debug\04_Everest.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\obj\Debug\04_Everest.exe
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\obj\Debug\04_Everest.pdb
+C:\Users\Acer\source\repos\TrialExam_04\04_Everest\obj\Debug\04_Everest.csprojAssemblyReference.cache

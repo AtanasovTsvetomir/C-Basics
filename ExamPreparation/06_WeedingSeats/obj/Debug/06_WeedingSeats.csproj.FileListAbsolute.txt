@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\bin\Debug\06_WeedingSeats.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\bin\Debug\06_WeedingSeats.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\bin\Debug\06_WeedingSeats.pdb
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\obj\Debug\06_WeedingSeats.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\obj\Debug\06_WeedingSeats.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\obj\Debug\06_WeedingSeats.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_WeedingSeats\obj\Debug\06_WeedingSeats.pdb

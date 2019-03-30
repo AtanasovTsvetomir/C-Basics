@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\Lenovo\source\repos\While\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

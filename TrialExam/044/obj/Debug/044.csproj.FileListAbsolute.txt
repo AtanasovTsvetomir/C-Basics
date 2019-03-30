@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\TrialExam\044\bin\Debug\044.exe.config
+C:\Users\Acer\source\repos\TrialExam\044\bin\Debug\044.exe
+C:\Users\Acer\source\repos\TrialExam\044\bin\Debug\044.pdb
+C:\Users\Acer\source\repos\TrialExam\044\obj\Debug\044.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam\044\obj\Debug\044.exe
+C:\Users\Acer\source\repos\TrialExam\044\obj\Debug\044.pdb

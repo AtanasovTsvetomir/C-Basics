@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\bin\Debug\FootballKit.exe.config
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\bin\Debug\FootballKit.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\bin\Debug\FootballKit.pdb
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\obj\Debug\FootballKit.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\obj\Debug\FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\obj\Debug\FootballKit.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\FootballKit\obj\Debug\FootballKit.pdb

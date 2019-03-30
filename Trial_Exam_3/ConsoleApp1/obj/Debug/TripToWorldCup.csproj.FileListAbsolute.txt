@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\obj\Debug\TripToWorldCup.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\obj\Debug\TripToWorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

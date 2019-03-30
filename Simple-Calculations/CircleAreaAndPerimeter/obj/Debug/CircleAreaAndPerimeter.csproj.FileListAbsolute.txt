@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

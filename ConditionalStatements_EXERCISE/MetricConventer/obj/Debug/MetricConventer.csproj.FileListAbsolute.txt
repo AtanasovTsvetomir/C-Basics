@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\bin\Debug\MetricConventer.exe.config
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\bin\Debug\MetricConventer.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\bin\Debug\MetricConventer.pdb
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\obj\Debug\MetricConventer.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\obj\Debug\MetricConventer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\obj\Debug\MetricConventer.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\MetricConventer\obj\Debug\MetricConventer.pdb

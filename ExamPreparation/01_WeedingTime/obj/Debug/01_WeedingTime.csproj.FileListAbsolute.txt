@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\bin\Debug\01_WeedingTime.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\bin\Debug\01_WeedingTime.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\bin\Debug\01_WeedingTime.pdb
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\obj\Debug\01_WeedingTime.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\obj\Debug\01_WeedingTime.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\obj\Debug\01_WeedingTime.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingTime\obj\Debug\01_WeedingTime.pdb

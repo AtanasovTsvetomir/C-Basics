@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\bin\Debug\03_Profit.exe.config
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\bin\Debug\03_Profit.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\bin\Debug\03_Profit.pdb
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\obj\Debug\03_Profit.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\obj\Debug\03_Profit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\obj\Debug\03_Profit.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\03_Profit\obj\Debug\03_Profit.pdb

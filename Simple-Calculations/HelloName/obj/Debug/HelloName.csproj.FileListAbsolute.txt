@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\bin\Debug\HelloName.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\bin\Debug\HelloName.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\bin\Debug\HelloName.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\obj\Debug\HelloName.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\HelloName\obj\Debug\HelloName.pdb

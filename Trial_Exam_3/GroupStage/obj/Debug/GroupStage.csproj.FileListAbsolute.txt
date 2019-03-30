@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\bin\Debug\GroupStage.exe.config
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\bin\Debug\GroupStage.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\bin\Debug\GroupStage.pdb
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\obj\Debug\GroupStage.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\obj\Debug\GroupStage.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\obj\Debug\GroupStage.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GroupStage\obj\Debug\GroupStage.pdb

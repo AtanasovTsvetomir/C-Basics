@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\bin\Debug\02_Shopping.exe.config
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\bin\Debug\02_Shopping.exe
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\bin\Debug\02_Shopping.pdb
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\obj\Debug\02_Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\obj\Debug\02_Shopping.exe
+C:\Users\Acer\source\repos\TrialExam_05\02_Shopping\obj\Debug\02_Shopping.pdb

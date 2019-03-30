@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\obj\Debug\SummerOutfit.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\obj\Debug\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\bin\Debug\SummerOutfit.exe.config
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\bin\Debug\SummerOutfit.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\bin\Debug\SummerOutfit.pdb
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\obj\Debug\SummerOutfit.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\SummerOutfit\obj\Debug\SummerOutfit.pdb

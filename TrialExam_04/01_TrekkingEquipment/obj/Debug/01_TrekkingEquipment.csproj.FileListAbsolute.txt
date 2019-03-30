@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\bin\Debug\01_TrekkingEquipment.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\bin\Debug\01_TrekkingEquipment.exe
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\bin\Debug\01_TrekkingEquipment.pdb
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\obj\Debug\01_TrekkingEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\obj\Debug\01_TrekkingEquipment.exe
+C:\Users\Acer\source\repos\TrialExam_04\01_TrekkingEquipment\obj\Debug\01_TrekkingEquipment.pdb

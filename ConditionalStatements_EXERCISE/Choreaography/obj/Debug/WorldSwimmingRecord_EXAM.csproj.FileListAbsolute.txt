@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\bin\Debug\Choreaography.exe.config
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\bin\Debug\Choreaography.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\bin\Debug\Choreaography.pdb
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\obj\Debug\WorldSwimmingRecord_EXAM.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\obj\Debug\WorldSwimmingRecord_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\obj\Debug\Choreaography.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\Choreaography\obj\Debug\Choreaography.pdb

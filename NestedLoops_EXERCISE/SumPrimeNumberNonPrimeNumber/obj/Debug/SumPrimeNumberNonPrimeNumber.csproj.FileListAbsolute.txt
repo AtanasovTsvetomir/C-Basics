@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\bin\Debug\SumPrimeNumberNonPrimeNumber.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\bin\Debug\SumPrimeNumberNonPrimeNumber.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\bin\Debug\SumPrimeNumberNonPrimeNumber.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\obj\Debug\SumPrimeNumberNonPrimeNumber.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\obj\Debug\SumPrimeNumberNonPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\obj\Debug\SumPrimeNumberNonPrimeNumber.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\SumPrimeNumberNonPrimeNumber\obj\Debug\SumPrimeNumberNonPrimeNumber.pdb

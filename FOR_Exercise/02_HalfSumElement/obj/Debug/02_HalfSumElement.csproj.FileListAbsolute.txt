@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\bin\Debug\02_HalfSumElement.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\bin\Debug\02_HalfSumElement.exe
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\bin\Debug\02_HalfSumElement.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\obj\Debug\02_HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\obj\Debug\02_HalfSumElement.exe
+C:\Users\Acer\source\repos\FOR_Exercise\02_HalfSumElement\obj\Debug\02_HalfSumElement.pdb

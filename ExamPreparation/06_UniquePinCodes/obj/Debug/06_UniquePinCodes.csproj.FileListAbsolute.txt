@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\bin\Debug\06_UniquePinCodes.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\bin\Debug\06_UniquePinCodes.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\bin\Debug\06_UniquePinCodes.pdb
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\obj\Debug\06_UniquePinCodes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\obj\Debug\06_UniquePinCodes.exe
+C:\Users\Acer\source\repos\ExamPreparation\06_UniquePinCodes\obj\Debug\06_UniquePinCodes.pdb

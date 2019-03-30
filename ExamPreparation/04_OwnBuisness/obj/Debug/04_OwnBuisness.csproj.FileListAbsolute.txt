@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\bin\Debug\04_OwnBuisness.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\bin\Debug\04_OwnBuisness.exe
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\bin\Debug\04_OwnBuisness.pdb
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\obj\Debug\04_OwnBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\obj\Debug\04_OwnBuisness.exe
+C:\Users\Acer\source\repos\ExamPreparation\04_OwnBuisness\obj\Debug\04_OwnBuisness.pdb

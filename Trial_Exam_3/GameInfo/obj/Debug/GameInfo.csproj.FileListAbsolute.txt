@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\bin\Debug\GameInfo.exe.config
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\bin\Debug\GameInfo.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\bin\Debug\GameInfo.pdb
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\obj\Debug\GameInfo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\obj\Debug\GameInfo.exe
+C:\Users\Acer\source\repos\Trial_Exam_3\GameInfo\obj\Debug\GameInfo.pdb

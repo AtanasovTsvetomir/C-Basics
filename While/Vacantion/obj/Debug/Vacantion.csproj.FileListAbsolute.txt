@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\Vacantion\bin\Debug\Vacantion.exe.config
+C:\Users\Lenovo\source\repos\While\Vacantion\bin\Debug\Vacantion.exe
+C:\Users\Lenovo\source\repos\While\Vacantion\bin\Debug\Vacantion.pdb
+C:\Users\Lenovo\source\repos\While\Vacantion\obj\Debug\Vacantion.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\Vacantion\obj\Debug\Vacantion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\Vacantion\obj\Debug\Vacantion.exe
+C:\Users\Lenovo\source\repos\While\Vacantion\obj\Debug\Vacantion.pdb

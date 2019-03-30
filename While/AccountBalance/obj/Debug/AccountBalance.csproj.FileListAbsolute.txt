@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\AccountBalance\obj\Debug\AccountBalance.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\AccountBalance\obj\Debug\AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\AccountBalance\bin\Debug\AccountBalance.exe.config
+C:\Users\Lenovo\source\repos\While\AccountBalance\bin\Debug\AccountBalance.exe
+C:\Users\Lenovo\source\repos\While\AccountBalance\bin\Debug\AccountBalance.pdb
+C:\Users\Lenovo\source\repos\While\AccountBalance\obj\Debug\AccountBalance.exe
+C:\Users\Lenovo\source\repos\While\AccountBalance\obj\Debug\AccountBalance.pdb

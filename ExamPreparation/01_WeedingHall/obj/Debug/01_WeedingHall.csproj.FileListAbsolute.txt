@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\bin\Debug\01_WeedingHall.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\bin\Debug\01_WeedingHall.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\bin\Debug\01_WeedingHall.pdb
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\obj\Debug\01_WeedingHall.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\obj\Debug\01_WeedingHall.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\obj\Debug\01_WeedingHall.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_WeedingHall\obj\Debug\01_WeedingHall.pdb

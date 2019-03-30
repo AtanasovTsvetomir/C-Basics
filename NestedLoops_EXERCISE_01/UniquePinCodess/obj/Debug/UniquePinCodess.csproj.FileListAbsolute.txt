@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\bin\Debug\UniquePinCodess.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\bin\Debug\UniquePinCodess.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\bin\Debug\UniquePinCodess.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\obj\Debug\UniquePinCodess.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\obj\Debug\UniquePinCodess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\obj\Debug\UniquePinCodess.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\UniquePinCodess\obj\Debug\UniquePinCodess.pdb

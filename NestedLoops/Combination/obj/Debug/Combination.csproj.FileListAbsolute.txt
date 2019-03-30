@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\NestedLoops\Combination\bin\Debug\Combination.exe.config
+C:\Users\Acer\source\repos\NestedLoops\Combination\bin\Debug\Combination.exe
+C:\Users\Acer\source\repos\NestedLoops\Combination\bin\Debug\Combination.pdb
+C:\Users\Acer\source\repos\NestedLoops\Combination\obj\Debug\Combination.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops\Combination\obj\Debug\Combination.exe
+C:\Users\Acer\source\repos\NestedLoops\Combination\obj\Debug\Combination.pdb

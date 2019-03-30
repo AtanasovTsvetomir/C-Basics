@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops\Destination\bin\Debug\Destination.exe.config
+C:\Users\Acer\source\repos\NestedLoops\Destination\bin\Debug\Destination.exe
+C:\Users\Acer\source\repos\NestedLoops\Destination\bin\Debug\Destination.pdb
+C:\Users\Acer\source\repos\NestedLoops\Destination\obj\Debug\Destination.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops\Destination\obj\Debug\Destination.exe
+C:\Users\Acer\source\repos\NestedLoops\Destination\obj\Debug\Destination.pdb
+C:\Users\Acer\source\repos\NestedLoops\Destination\obj\Debug\Destination.csprojAssemblyReference.cache

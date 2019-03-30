@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\bin\Debug\Journey.exe.config
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\bin\Debug\Journey.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\bin\Debug\Journey.pdb
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\obj\Debug\Journey.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\Journey\obj\Debug\Journey.pdb

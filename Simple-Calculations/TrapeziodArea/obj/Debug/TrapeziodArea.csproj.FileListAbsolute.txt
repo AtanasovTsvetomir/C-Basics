@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\obj\Debug\TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

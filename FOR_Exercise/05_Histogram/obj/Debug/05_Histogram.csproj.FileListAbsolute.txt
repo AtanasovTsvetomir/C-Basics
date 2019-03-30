@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\bin\Debug\05_Histogram.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\bin\Debug\05_Histogram.exe
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\bin\Debug\05_Histogram.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\obj\Debug\05_Histogram.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\obj\Debug\05_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\obj\Debug\05_Histogram.exe
+C:\Users\Acer\source\repos\FOR_Exercise\05_Histogram\obj\Debug\05_Histogram.pdb

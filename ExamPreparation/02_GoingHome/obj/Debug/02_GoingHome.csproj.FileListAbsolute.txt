@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\bin\Debug\02_GoingHome.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\bin\Debug\02_GoingHome.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\bin\Debug\02_GoingHome.pdb
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\obj\Debug\02_GoingHome.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\obj\Debug\02_GoingHome.exe
+C:\Users\Acer\source\repos\ExamPreparation\02_GoingHome\obj\Debug\02_GoingHome.pdb

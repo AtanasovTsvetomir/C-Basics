@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\Lenovo\source\repos\While\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\Lenovo\source\repos\While\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\Lenovo\source\repos\While\NumberSequence\obj\Debug\NumberSequence.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\Lenovo\source\repos\While\NumberSequence\obj\Debug\NumberSequence.pdb

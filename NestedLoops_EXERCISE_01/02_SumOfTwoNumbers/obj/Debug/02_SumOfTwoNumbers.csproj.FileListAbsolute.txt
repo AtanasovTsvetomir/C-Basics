@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\bin\Debug\02_SumOfTwoNumbers.exe.config
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\bin\Debug\02_SumOfTwoNumbers.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\bin\Debug\02_SumOfTwoNumbers.pdb
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\obj\Debug\02_SumOfTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\obj\Debug\02_SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\obj\Debug\02_SumOfTwoNumbers.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\02_SumOfTwoNumbers\obj\Debug\02_SumOfTwoNumbers.pdb

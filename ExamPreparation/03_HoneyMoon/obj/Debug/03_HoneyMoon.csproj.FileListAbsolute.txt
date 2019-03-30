@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\bin\Debug\03_HoneyMoon.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\bin\Debug\03_HoneyMoon.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\bin\Debug\03_HoneyMoon.pdb
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\obj\Debug\03_HoneyMoon.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\obj\Debug\03_HoneyMoon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\obj\Debug\03_HoneyMoon.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_HoneyMoon\obj\Debug\03_HoneyMoon.pdb

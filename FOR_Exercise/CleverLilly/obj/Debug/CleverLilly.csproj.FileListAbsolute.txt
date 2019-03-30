@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\bin\Debug\CleverLilly.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\bin\Debug\CleverLilly.exe
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\bin\Debug\CleverLilly.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\obj\Debug\CleverLilly.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\obj\Debug\CleverLilly.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\obj\Debug\CleverLilly.exe
+C:\Users\Acer\source\repos\FOR_Exercise\CleverLilly\obj\Debug\CleverLilly.pdb

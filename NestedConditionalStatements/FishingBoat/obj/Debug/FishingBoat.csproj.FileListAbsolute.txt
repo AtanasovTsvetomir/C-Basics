@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\bin\Debug\FishingBoat.exe.config
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\bin\Debug\FishingBoat.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\bin\Debug\FishingBoat.pdb
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\obj\Debug\FishingBoat.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\obj\Debug\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\obj\Debug\FishingBoat.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\FishingBoat\obj\Debug\FishingBoat.pdb

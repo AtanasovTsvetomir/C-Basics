@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\bin\Debug\03_OddEven_Position.exe.config
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\bin\Debug\03_OddEven_Position.exe
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\bin\Debug\03_OddEven_Position.pdb
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\obj\Debug\03_OddEven_Position.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\obj\Debug\03_OddEven_Position.exe
+C:\Users\Acer\source\repos\FOR_Exercise\03_OddEven_Position\obj\Debug\03_OddEven_Position.pdb

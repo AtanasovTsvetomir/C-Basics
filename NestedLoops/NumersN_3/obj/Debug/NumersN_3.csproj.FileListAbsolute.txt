@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\obj\Debug\NumersN_3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\bin\Debug\NumersN_3.exe.config
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\bin\Debug\NumersN_3.exe
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\bin\Debug\NumersN_3.pdb
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\obj\Debug\NumersN_3.exe
+C:\Users\Acer\source\repos\NestedLoops\NumersN_3\obj\Debug\NumersN_3.pdb

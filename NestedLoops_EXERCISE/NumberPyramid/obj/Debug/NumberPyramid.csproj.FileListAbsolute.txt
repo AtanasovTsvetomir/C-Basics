@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberPyramid\obj\Debug\NumberPyramid.pdb

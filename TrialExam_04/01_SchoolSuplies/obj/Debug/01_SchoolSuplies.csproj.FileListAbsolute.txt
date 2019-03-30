@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\bin\Debug\01_SchoolSuplies.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\bin\Debug\01_SchoolSuplies.exe
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\bin\Debug\01_SchoolSuplies.pdb
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\obj\Debug\01_SchoolSuplies.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\obj\Debug\01_SchoolSuplies.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\obj\Debug\01_SchoolSuplies.exe
+C:\Users\Acer\source\repos\TrialExam_04\01_SchoolSuplies\obj\Debug\01_SchoolSuplies.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\bin\Debug\HalfSumElement_Exercise.exe.config
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\bin\Debug\HalfSumElement_Exercise.exe
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\bin\Debug\HalfSumElement_Exercise.pdb
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\obj\Debug\HalfSumElement_Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\obj\Debug\HalfSumElement_Exercise.exe
+D:\SoftUni\ProgrammingBasics\For\HalfSumElement_Exercise\obj\Debug\HalfSumElement_Exercise.pdb

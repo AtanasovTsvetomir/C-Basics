@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\Graduation\bin\Debug\Graduation.exe.config
+C:\Users\Lenovo\source\repos\While\Graduation\bin\Debug\Graduation.exe
+C:\Users\Lenovo\source\repos\While\Graduation\bin\Debug\Graduation.pdb
+C:\Users\Lenovo\source\repos\While\Graduation\obj\Debug\Graduation.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\Graduation\obj\Debug\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\Graduation\obj\Debug\Graduation.exe
+C:\Users\Lenovo\source\repos\While\Graduation\obj\Debug\Graduation.pdb

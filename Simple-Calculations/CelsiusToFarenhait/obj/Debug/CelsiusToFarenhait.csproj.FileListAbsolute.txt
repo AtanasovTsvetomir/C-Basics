@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\bin\Debug\CelsiusToFarenhait.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\bin\Debug\CelsiusToFarenhait.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\bin\Debug\CelsiusToFarenhait.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\obj\Debug\CelsiusToFarenhait.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\obj\Debug\CelsiusToFarenhait.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\CelsiusToFarenhait\obj\Debug\CelsiusToFarenhait.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\bin\Debug\03_SkiTrip.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\bin\Debug\03_SkiTrip.exe
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\bin\Debug\03_SkiTrip.pdb
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\obj\Debug\03_SkiTrip.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\obj\Debug\03_SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\obj\Debug\03_SkiTrip.exe
+C:\Users\Acer\source\repos\TrialExam_04\03_SkiTrip\obj\Debug\03_SkiTrip.pdb

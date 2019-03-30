@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\bin\Debug\LatinLetters.exe.config
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\bin\Debug\LatinLetters.exe
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\bin\Debug\LatinLetters.pdb
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\obj\Debug\LatinLetters.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\obj\Debug\LatinLetters.exe
+D:\SoftUni\ProgrammingBasics\For\LatinLetters\obj\Debug\LatinLetters.pdb

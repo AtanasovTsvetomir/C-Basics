@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\ExamPreparation\obj\Debug\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\ExamPreparation\obj\Debug\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+C:\Users\Lenovo\source\repos\While\ExamPreparation\bin\Debug\ExamPreparation.exe
+C:\Users\Lenovo\source\repos\While\ExamPreparation\bin\Debug\ExamPreparation.pdb
+C:\Users\Lenovo\source\repos\While\ExamPreparation\obj\Debug\ExamPreparation.exe
+C:\Users\Lenovo\source\repos\While\ExamPreparation\obj\Debug\ExamPreparation.pdb

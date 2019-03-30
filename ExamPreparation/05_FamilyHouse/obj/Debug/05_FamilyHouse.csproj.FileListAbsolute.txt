@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\bin\Debug\05_FamilyHouse.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\bin\Debug\05_FamilyHouse.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\bin\Debug\05_FamilyHouse.pdb
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\obj\Debug\05_FamilyHouse.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\obj\Debug\05_FamilyHouse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\obj\Debug\05_FamilyHouse.exe
+C:\Users\Acer\source\repos\ExamPreparation\05_FamilyHouse\obj\Debug\05_FamilyHouse.pdb

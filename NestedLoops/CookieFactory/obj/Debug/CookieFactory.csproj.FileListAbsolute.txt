@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\bin\Debug\CookieFactory.exe.config
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\bin\Debug\CookieFactory.exe
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\bin\Debug\CookieFactory.pdb
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\obj\Debug\CookieFactory.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\obj\Debug\CookieFactory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\obj\Debug\CookieFactory.exe
+C:\Users\Acer\source\repos\NestedLoops\CookieFactory\obj\Debug\CookieFactory.pdb

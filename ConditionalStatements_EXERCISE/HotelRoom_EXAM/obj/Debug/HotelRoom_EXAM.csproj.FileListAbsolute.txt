@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\obj\Debug\HotelRoom_EXAM.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\obj\Debug\HotelRoom_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\bin\Debug\HotelRoom_EXAM.exe.config
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\bin\Debug\HotelRoom_EXAM.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\bin\Debug\HotelRoom_EXAM.pdb
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\obj\Debug\HotelRoom_EXAM.exe
+C:\Users\Acer\source\repos\SoftUni\ProgrammingBasics\Åα«ßΓ¿ «»Ñαáµ¿¿ ¿ »αÑß¼∩Γá¡¿∩\ConditionalStatements_EXERCISE\HotelRoom_EXAM\obj\Debug\HotelRoom_EXAM.pdb

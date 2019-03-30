@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\bin\Debug\03_SlotMachine.exe.config
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\bin\Debug\03_SlotMachine.exe
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\bin\Debug\03_SlotMachine.pdb
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\obj\Debug\03_SlotMachine.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\obj\Debug\03_SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\obj\Debug\03_SlotMachine.exe
+C:\Users\Acer\source\repos\TrialExam_05\03_SlotMachine\obj\Debug\03_SlotMachine.pdb

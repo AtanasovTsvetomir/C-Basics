@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\obj\Debug\NumberTable.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\obj\Debug\NumberTable.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE\NumberTable\obj\Debug\NumberTable.pdb

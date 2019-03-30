@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\obj\Debug\NewHouse.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\obj\Debug\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\Acer\source\repos\NestedConditionalStatements\NewHouse\obj\Debug\NewHouse.pdb

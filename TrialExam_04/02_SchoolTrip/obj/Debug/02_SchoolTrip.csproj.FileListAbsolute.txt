@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\bin\Debug\02_SchoolTrip.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\bin\Debug\02_SchoolTrip.exe
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\bin\Debug\02_SchoolTrip.pdb
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\obj\Debug\02_SchoolTrip.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\obj\Debug\02_SchoolTrip.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\obj\Debug\02_SchoolTrip.exe
+C:\Users\Acer\source\repos\TrialExam_04\02_SchoolTrip\obj\Debug\02_SchoolTrip.pdb

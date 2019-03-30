@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\bin\Debug\04_PuppyCare.exe.config
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\bin\Debug\04_PuppyCare.exe
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\bin\Debug\04_PuppyCare.pdb
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\obj\Debug\04_PuppyCare.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\obj\Debug\04_PuppyCare.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\obj\Debug\04_PuppyCare.exe
+C:\Users\Acer\source\repos\TrialExam_04\04_PuppyCare\obj\Debug\04_PuppyCare.pdb

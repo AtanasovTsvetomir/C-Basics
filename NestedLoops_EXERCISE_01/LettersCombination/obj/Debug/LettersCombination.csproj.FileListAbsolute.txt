@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\bin\Debug\LettersCombination.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\bin\Debug\LettersCombination.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\bin\Debug\LettersCombination.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\obj\Debug\LettersCombination.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\obj\Debug\LettersCombination.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\obj\Debug\LettersCombination.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\LettersCombination\obj\Debug\LettersCombination.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\bin\Debug\01_ShoppingTime.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\bin\Debug\01_ShoppingTime.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\bin\Debug\01_ShoppingTime.pdb
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\obj\Debug\01_ShoppingTime.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\obj\Debug\01_ShoppingTime.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\obj\Debug\01_ShoppingTime.exe
+C:\Users\Acer\source\repos\ExamPreparation\01_ShoppingTime\obj\Debug\01_ShoppingTime.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\bin\Debug\BirthdayExamLab.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\bin\Debug\BirthdayExamLab.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\bin\Debug\BirthdayExamLab.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\obj\Debug\BirthdayExamLab.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\obj\Debug\BirthdayExamLab.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\obj\Debug\BirthdayExamLab.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\BirthdayExamLab\obj\Debug\BirthdayExamLab.pdb

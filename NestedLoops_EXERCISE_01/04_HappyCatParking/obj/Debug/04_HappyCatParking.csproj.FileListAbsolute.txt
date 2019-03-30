@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\bin\Debug\04_HappyCatParking.exe.config
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\bin\Debug\04_HappyCatParking.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\bin\Debug\04_HappyCatParking.pdb
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\obj\Debug\04_HappyCatParking.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\obj\Debug\04_HappyCatParking.exe
+C:\Users\Acer\source\repos\SoftUni\NestedLoops_EXERCISE_01\04_HappyCatParking\obj\Debug\04_HappyCatParking.pdb

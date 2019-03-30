@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\bin\Debug\SumSecond.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\bin\Debug\SumSecond.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\bin\Debug\SumSecond.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\obj\Debug\SumSecond.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\obj\Debug\SumSecond.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\obj\Debug\SumSecond.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\ConditionalStatements_EXERCISE\SumSecond\obj\Debug\SumSecond.pdb

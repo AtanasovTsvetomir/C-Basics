@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\While\OldBooks\obj\Debug\OldBooks.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\While\OldBooks\obj\Debug\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\While\OldBooks\bin\Debug\OldBooks.exe.config
+C:\Users\Lenovo\source\repos\While\OldBooks\bin\Debug\OldBooks.exe
+C:\Users\Lenovo\source\repos\While\OldBooks\bin\Debug\OldBooks.pdb
+C:\Users\Lenovo\source\repos\While\OldBooks\obj\Debug\OldBooks.exe
+C:\Users\Lenovo\source\repos\While\OldBooks\obj\Debug\OldBooks.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\bin\Debug\ChallengeTheWedding.exe.config
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\bin\Debug\ChallengeTheWedding.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\bin\Debug\ChallengeTheWedding.pdb
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\obj\Debug\ChallengeTheWedding.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\obj\Debug\ChallengeTheWedding.exe
+C:\Users\Acer\source\repos\NestedLoops_EXERCISE_01\ChallengeTheWedding\obj\Debug\ChallengeTheWedding.pdb

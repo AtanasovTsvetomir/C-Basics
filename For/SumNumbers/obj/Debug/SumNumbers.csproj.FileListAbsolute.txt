@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\bin\Debug\SumNumbers.exe
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\obj\Debug\SumNumbers.exe
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\obj\Debug\SumNumbers.pdb
+D:\SoftUni\ProgrammingBasics\For\SumNumbers\obj\Debug\SumNumbers.csprojAssemblyReference.cache

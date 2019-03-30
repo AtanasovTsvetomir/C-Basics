@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\For\Salary\bin\Debug\Salary.exe.config
+D:\SoftUni\ProgrammingBasics\For\Salary\bin\Debug\Salary.exe
+D:\SoftUni\ProgrammingBasics\For\Salary\bin\Debug\Salary.pdb
+D:\SoftUni\ProgrammingBasics\For\Salary\obj\Debug\Salary_exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\Salary\obj\Debug\Salary.exe
+D:\SoftUni\ProgrammingBasics\For\Salary\obj\Debug\Salary.pdb

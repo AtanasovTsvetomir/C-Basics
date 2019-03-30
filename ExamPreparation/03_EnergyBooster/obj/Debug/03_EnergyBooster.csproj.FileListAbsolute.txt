@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\bin\Debug\03_EnergyBooster.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\bin\Debug\03_EnergyBooster.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\bin\Debug\03_EnergyBooster.pdb
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\obj\Debug\03_EnergyBooster.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\obj\Debug\03_EnergyBooster.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_EnergyBooster\obj\Debug\03_EnergyBooster.pdb

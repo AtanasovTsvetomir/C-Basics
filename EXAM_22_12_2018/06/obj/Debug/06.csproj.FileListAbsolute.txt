@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\bin\Debug\06.exe.config
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\bin\Debug\06.exe
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\bin\Debug\06.pdb
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\obj\Debug\06.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\obj\Debug\06.exe
+C:\Users\Acer\source\repos\EXAM_22_12_2018\06\obj\Debug\06.pdb

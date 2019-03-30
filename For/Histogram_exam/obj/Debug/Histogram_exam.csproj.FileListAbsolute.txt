@@ -1,0 +1,7 @@
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\bin\Debug\Histogram_exam.exe.config
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\bin\Debug\Histogram_exam.exe
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\bin\Debug\Histogram_exam.pdb
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\obj\Debug\Histogram_exam.csprojAssemblyReference.cache
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\obj\Debug\Histogram_exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\obj\Debug\Histogram_exam.exe
+D:\SoftUni\ProgrammingBasics\For\Histogram_exam\obj\Debug\Histogram_exam.pdb

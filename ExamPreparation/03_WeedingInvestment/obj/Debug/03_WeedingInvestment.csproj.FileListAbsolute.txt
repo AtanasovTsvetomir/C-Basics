@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\bin\Debug\03_WeedingInvestment.exe.config
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\bin\Debug\03_WeedingInvestment.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\bin\Debug\03_WeedingInvestment.pdb
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\obj\Debug\03_WeedingInvestment.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\obj\Debug\03_WeedingInvestment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\obj\Debug\03_WeedingInvestment.exe
+C:\Users\Acer\source\repos\ExamPreparation\03_WeedingInvestment\obj\Debug\03_WeedingInvestment.pdb

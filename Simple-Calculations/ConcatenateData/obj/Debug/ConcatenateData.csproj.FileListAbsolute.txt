@@ -1,0 +1,6 @@
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\SoftUni\ProgrammingBasics\Прости операции и пресмятания\Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.pdb
